@@ -544,6 +544,11 @@
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "name": "七七影视",
       "is_adult": false
+    },
+    "lzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "name": "量子资源站",
+      "is_adult": false
     }
   }
 }
