@@ -106,7 +106,7 @@ volumes:
 ```yml
 services:
   moontv-core:
-    image: ghcr.io/moontechlab/lunatv:latest
+    image: angelwized/lunatv:latest
     container_name: moontv-core
     restart: on-failure
     ports:
@@ -142,7 +142,7 @@ networks:
 ```yml
 services:
   moontv-core:
-    image: ghcr.io/moontechlab/lunatv:latest
+    image: angelwized/lunatv:latest
     container_name: moontv-core
     restart: on-failure
     ports:
